@@ -28,10 +28,13 @@ education:
   - course: Texts and Technology,PhD
     institution: University of Central Florida
     year: 2023
-  - course: Urban & Regional Planning,M.A.
+    -course: Graduate Certificate User Experience Design/Digital Media Production
+    institution: University of Baltimore
+    year: 2018
+  - course: Urban & Regional Planning,MA
     institution: Jackson State University
     year: 2013
-  - course: Art, B.A.
+  - course: Art, BA
     institution: Jackson State University
     year: 2009
 
@@ -64,7 +67,7 @@ email: "francine.sutton@knights.ucf.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Student
+- ACM
 - Digital Media
 ---
 

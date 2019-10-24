@@ -27,8 +27,8 @@ subtitle = ""
   description = "100%"  
 
 [[feature]]
-  icon = "researchgate"
-  icon_pack = "fab"
+  icon = "fab"
+  icon_pack = "researchgate"
   name = "Research Gate"
   description = "10%"
 
