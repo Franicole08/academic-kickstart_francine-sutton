@@ -19,9 +19,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Hometown: Jackson, MS. Graduate of Jackson State University with a B.A. in Art and M.A. in Urban & Regional Planning.
 interests:
-* User Experience Design
-* Game Studies
-* Urban Planning
+- User Experience Design
+- Game Studies
+- Urban Planning
 
 education:
   courses:
@@ -45,13 +45,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/frannypack08
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/scholar?scilib=1&hl=en&as_sdt=0,10
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/franicole08
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
