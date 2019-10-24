@@ -21,15 +21,15 @@ subtitle = ""
   description = "50%"
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "fab"
+  icon_pack = "fa-playstation"
+  name = "Playstation"
   description = "100%"  
 
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "researchgate"
+  icon_pack = "fa-researchgate"
+  name = "Research Gate"
   description = "10%"
 
 +++
