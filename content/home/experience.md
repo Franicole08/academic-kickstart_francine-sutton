@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
   * Comprehensive Planning
   * Zoning Map Amendments
-  * Development Review 
+  * Development Review
   """
 
 [[experience]]
@@ -40,4 +40,12 @@ date_format = "Jan 2006"
   date_end = "2019-07-17"
   description = """Review site development plans for consistency with land development regulations."""
 
+  [[experience]]
+    title = "Planning Technician"
+    company = "City of Gainesville"
+    company_url = ""
+    location = "Florida"
+    date_start = "2017-06-12"
+    date_end = "2018-07-09"
+    description = """Review Zoning Compliance Permits, Schedule First Step Meetings, & Provide information to citizens""
 +++

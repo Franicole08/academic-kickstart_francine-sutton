@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "adobe"
-  name = "R"
+  icon = "fab"
+  icon_pack = "fa-adobe"
+  name = "Adobe"
   description = "50%"
 
 [[feature]]
