@@ -16,19 +16,19 @@ subtitle = ""
 
 [[feature]]
   icon = "fab"
-  icon_pack = "fa-adobe"
+  icon_pack = "adobe"
   name = "Adobe"
   description = "50%"
 
 [[feature]]
   icon = "fab"
-  icon_pack = "fa-playstation"
+  icon_pack = "playstation"
   name = "Playstation"
   description = "100%"  
 
 [[feature]]
   icon = "researchgate"
-  icon_pack = "fa-researchgate"
+  icon_pack = "fab"
   name = "Research Gate"
   description = "10%"
 
