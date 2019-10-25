@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2019-07-22"
   date_end = ""
-  description = ""Responsibilities include: Review Development applications for consistency with comprehensive plan""
+  description = """"Responsibilities include: Review Development applications for consistency with comprehensive plan"""
 
   * Comprehensive Planning
   * Zoning Map Amendments
