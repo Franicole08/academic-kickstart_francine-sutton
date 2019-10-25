@@ -17,7 +17,7 @@ organizations:
   url: ""
 ""
 # Short bio (displayed in user profile at end of posts)
-bio: Hometown: Jackson, MS. Graduate of Jackson State University with a B.A. in Art and M.A. in Urban & Regional Planning.
+bio: """Hometown: Jackson, MS. Graduate of Jackson State University with a B.A. in Art and M.A. in Urban & Regional Planning."""
 interests:
 - User Experience Design
 - Game Studies
