@@ -26,9 +26,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """"Responsibilities include: Review Development applications for consistency with comprehensive plan"""
 
-  * Comprehensive Planning
-  * Zoning Map Amendments
-  * Development Review
   """
 
 [[experience]]
