@@ -24,9 +24,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2019-07-22"
   date_end = ""
-  description = """"Responsibilities include: Review Development applications for consistency with comprehensive plan"""
-
-  """
+  description = """Responsibilities include: Review Development applications for consistency with comprehensive plan"""
 
 [[experience]]
   title = "Planner I"
@@ -44,5 +42,5 @@ date_format = "Jan 2006"
     location = "Florida"
     date_start = "2017-06-12"
     date_end = "2018-07-09"
-    description = """Review Zoning Compliance Permits, Schedule First Step Meetings, + Provide information to citizens""
+    description = """Review Zoning Compliance Permits, Schedule First Step Meetings, + Provide information to citizens"""
 +++
