@@ -15,7 +15,7 @@ role: PhD Student
 organizations:
 - name: University of Central Florida
   url: ""
-""
+
 # Short bio (displayed in user profile at end of posts)
 bio: """Hometown: Jackson, MS. Graduate of Jackson State University with a B.A. in Art and M.A. in Urban & Regional Planning."""
 interests:
@@ -71,4 +71,4 @@ user_groups:
 - Digital Media
 ---
 
-Francine N. Sutton is a first year PhD student in the Texts and Technology program with a concentration in Digital Media. Her current research is targeting designing for older adults with little to no technology experience and exploring movie spoilers.
+Francine N. Sutton is a first year PhD student in the Texts and Technology program with a concentration in Digital Media. Her current research is targeting designing for older adults with little to no technology experience, fan culture, and game studies. 
